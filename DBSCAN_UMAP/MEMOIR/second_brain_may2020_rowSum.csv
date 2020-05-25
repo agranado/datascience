@@ -1,4 +1,4 @@
-cell_id,barcode,ypos,xpos,cell_size,ChAT,Fru,Gad1,SerT,sNPF,Tbh,TH,VGlut,clone_ID,rowsum
+cell_id,barcode,ypos,xpos,cell_size,ChAT,Fru,Gad1,SerT,sNPF,Tbh,TH,VGlut,clone_id,rowsum
 1,0000000000,2411,694,419,0,0,0,0,223,0,0,0,0,1
 2,0000000000,2374,707,696,0,21,0,0,2929,0,0,57,0,1
 3,0000000000,2464,708,539,0,0,0,0,0,0,0,11438,0,1
